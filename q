@@ -1,0 +1,17 @@
+[33mcommit a144a9b9c9a3fe5a10a2f610f6ae29da2d815240[m[33m ([m[1;36mHEAD -> [m[1;32m1.0[m[33m)[m
+Author: diky dirgan <dikydirgan@gmail.com>
+Date:   Sun Oct 6 12:32:48 2019 -0700
+
+    add about view
+
+[33mcommit 4d909a7b2cb99074ecd26b9ed6c52aa78606fcec[m
+Author: diky dirgan <dikydirgan@gmail.com>
+Date:   Sun Oct 6 11:48:06 2019 -0700
+
+    add about route
+
+[33mcommit a7e0d27151ea78d22b6f87bfd797e7c2279def6d[m[33m ([m[1;32mmaster[m[33m)[m
+Author: diky dirgan <dikydirgan@gmail.com>
+Date:   Sun Oct 6 11:20:44 2019 -0700
+
+    initial commit
