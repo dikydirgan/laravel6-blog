@@ -1,2 +1,13 @@
-<h1>Kontak</h1>
-<p>Ini adalah halaman Kontak<p>
+@extends('layout.app')
+
+
+@section('content')
+
+
+
+<div class="starter-template">
+    <h1>Kontak</h1>
+    <p class="lead">Ini adalah halaman Kontak</p>
+  </div>
+
+@endsection
